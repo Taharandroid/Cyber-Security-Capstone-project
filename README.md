@@ -1,4 +1,21 @@
 # Cyber-Security-Capstone-project Vertical Instutute
+Description of Dataset
+
+The PowerPoint presentation provided for this capstone project is for a New Company which need a Cybersecurity system
+
+In today's digital age, cybersecurity has become an essential component for businesses of all sizes. As organizations increasingly rely on technology and digital infrastructure, the risk of cyber threats has grown
+
+exponentially. These threats not only endanger sensitive data but also can disrupt operations, tarnish reputations, and incur significant financial losses.
+
+we recognize the critical importance of safeguarding your digital assets. Our comprehensive cybersecurity solutions are designed to protect your systems, data, and networks from evolving cyber threats. We
+
+leverage advanced technologies and industry best practices to ensure your business remains resilient and secure.
+
+This presentation will guide you through the key aspects of our cybersecurity approach, demonstrating how we can help you mitigate risks, comply with regulatory requirements, and maintain a secure and trusted 
+
+environment for your stakeholders.
+
+Join us as we explore the vital components of a robust cybersecurity strategy tailored to meet the unique needs of your organization.
 
 ![Screenshot 2024-07-18 124720](https://github.com/user-attachments/assets/ac24ad2a-5349-4c6d-ad3f-857d70a2db1e)
 ![Screenshot 2024-07-18 124742](https://github.com/user-attachments/assets/407d2ec0-e3e0-4876-9b22-192a8dc2006f)
